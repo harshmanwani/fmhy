@@ -24,6 +24,11 @@ import { replaceNoteLink } from './utils/markdown'
 
 // @unocss-include
 
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
   title: 'FMHY',
