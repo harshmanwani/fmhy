@@ -1,0 +1,24 @@
+name: Sync from Upstream
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs once a day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your fork
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add upstream
+        run: git remote add upstream https://github.com/fmhy/edit.git
+
+      - name: Fetch and merge upstream
+        run: |
+          git fetch upstream
+          git merge upstream/main --allow-unrelated-histories -m "Sync from upstream"
+          git push origin main
