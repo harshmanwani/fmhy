@@ -21,15 +21,13 @@ import { transform, transformGuide } from './transformer'
 // @unocss-include
 
 export const meta = {
-  name: 'freemediaheckyeah',
-  description: 'The largest collection of free stuff on the internet!',
-  hostname: 'https://fmhy.net',
-  keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
+  name: "FMHY Mirror",
+  hostname: "free.harsh.im",
+  description: "My self-hosted FMHY mirror",
   build: {
-    api: true,
-    nsfw: true
+    api: false // or ensure FMHY_BUILD_API is false
   }
-}
+};
 
 export const excluded = [
   'readme.md',
