@@ -21,13 +21,14 @@ import { transform, transformGuide } from './transformer'
 // @unocss-include
 
 export const meta = {
-  name: "FMHY Mirror",
-  hostname: "free.harsh.im",
-  description: "My self-hosted FMHY mirror",
+  name: 'Your FMHY Clone',
+  hostname: 'https://free.harsh.im',
+  description: 'Your description here',
+  keywords: ['free', 'media', 'heckyeah'],
   build: {
-    api: false // or ensure FMHY_BUILD_API is false
+    api: false // disable backend API usage
   }
-};
+}
 
 export const excluded = [
   'readme.md',
