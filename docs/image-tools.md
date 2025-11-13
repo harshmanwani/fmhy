@@ -260,7 +260,7 @@
 ## ▷ Design Apps
 
 * ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
-* [Canva](https://www.canva.com/) - Design App / Windows, Mac, Web
+* [Canva](https://www.canva.com/) - Design App / Windows, Mac, Web / [Invites](https://rentry.co/FMHYB64#canva)
 * [lunacy](https://icons8.com/lunacy) - Design App / Windows, Mac, Linux
 * [VistaCreate](https://create.vista.com/) - Design App / Web
 * [blush](https://blush.design/) - Illustration Design / Web
@@ -446,13 +446,13 @@
 * [publicdomainvectors](https://publicdomainvectors.org/), [Free Vector](https://www.freevector.com/), [VectorJunky](https://www.vectorjunky.com/), [freevectors](https://www.freevectors.net/) or [vector4free](https://www.vector4free.com/) - Misc Vectors
 * [VectorPortal](https://www.vectorportal.com/) - Vector Collections / Creative Common Attribution
 * [123freevectors](https://www.123freevectors.com/) - Background Vectors
-* [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+* [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/) or [Mockups](https://mockups.pixeltrue.com/) - Product Mockups
 
 ***
 
 ## ▷ Art / Illustrations
 
-* ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / Some NSFW / [Patreon Redirect](https://greasyfork.org/en/scripts/553616) / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - Patreon Content / Some NSFW / [Patreon Redirect](https://sleazyfork.org/en/scripts/483259), [2](https://greasyfork.org/en/scripts/553616)  / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** - User-Made Art / Fanart
 * ⭐ **[ArtStation](https://www.artstation.com/)** - User-Made Art / Fanart / [Downloader](https://github.com/findix/ArtStationDownloader)
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
@@ -483,7 +483,7 @@
 
 ## ▷ Media Covers / Posters
 
-* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - Movies / TV / Music / Comic / Book / Anime / Manga / Games
+* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - Movies / TV / Music / Comic / Book / Anime / Manga
 * [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
 * [The Poster DB](https://theposterdb.com/) / [Subreddit](https://www.reddit.com/r/ThePosterDB) / [Discord](https://discord.com/invite/NARZqQX), [DVD Covers](https://www.dvd-covers.org/) or [MediUX](https://mediux.pro/) - Movies / TV
 * [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film On Paper](https://www.filmonpaper.com/posters/), [The Poster Collector](https://postercollector.co.uk/) or [IMP Awards](http://www.impawards.com/) - Movies
@@ -550,7 +550,7 @@
 * [VFXmed](https://www.vfxmed.com/) - Blender Addons
 * [Wings 3D](https://www.wings3d.com/) - Cross-Platform 3D Modeling App
 * [JustSketchMe](https://justsketch.me/) - Cross-Platform 3D Pose Reference Tool
-* [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
+* [MakeHuman](https://static.makehumancommunity.org/) - 3D Humanoid Modeler
 * [PoseMy.art](https://app.posemy.art/), [SetPose](https://setpose.com/), [DesignDoll](https://terawell.net/en/index.php), [Magic Poser](https://magicposer.com/), [Quickposes](https://quickposes.com/en) or [JustSketchMe](https://app.justsketch.me/) - Posing Tools
 * [Vectary](https://www.vectary.com/), [Womp](https://beta.womp.com/), [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
@@ -606,7 +606,7 @@
 * [PhotoFeeler](https://www.photofeeler.com/) - Get Photo Feedback
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [⁠Universal Sig Rotator](https://sig.grumpybumpers.com/) - Rotates Image for Forum Signatures / Site Banners
-* [Binternet](https://github.com/Ahwxorg/Binternet) or [Pinvibe](https://www.pinvibe.com/) - Pinterest Frontend
+* [Binternet](https://github.com/Ahwxorg/Binternet) or [Pinvibe](https://www.pinvibe.com/) - Pinterest Frontends
 * [r/Photography Guide](https://www.reddit.com/r/photography/wiki/introduction) or [Cambridge In Colour](https://www.cambridgeincolour.com/) - Photography / Camera Guides
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [PixelPeeper](https://pixelpeeper.com/) - Extract Lightroom Edits / Settings

@@ -130,10 +130,10 @@
 ## ▷ File Encryption
 
 * ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - Cloud File Encryption
-* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter
-* [age](https://github.com/FiloSottile/age) - File Encrypter
-* [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encrypter
-* [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encryptor
+* [age](https://github.com/FiloSottile/age) - File Encryptor
+* [gocryptfs](https://github.com/bailey27/cppcryptfs) - File Encryptor
+* [Kryptor](https://www.kryptor.co.uk/) - File Encryptor
 
 ***
 
@@ -224,6 +224,7 @@
 * [BreezePDF](https://breezepdf.com/)
 * [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
+* [PDFClear](https://www.pdfclear.com/)
 * [SimplePDF](https://simplepdf.com/)
 * [DPDF](https://dpdf.com/)
 * [Digiparser](https://www.digiparser.com/free-tools/pdf)
@@ -263,6 +264,7 @@
 * [KDE Connect](https://kdeconnect.kde.org/) - Desktop / Mobile Transfer
 * [Wormhole](https://wormhole.app/) - Desktop / Mobile Transfer / [Discord](https://discord.com/invite/de6FscsK5Z) / [GitHub](https://github.com/SocketDev)
 * [Warpinator](https://github.com/linuxmint/warpinator) - Desktop / Mobile Transfer
+* [⁠Phone Link](https://www.microsoft.com/en-us/windows/sync-across-your-devices) - Desktop / Mobile File Transfer 
 * [Sefirah](https://github.com/shrimqy/Sefirah) - Desktop / Mobile Transfer
 * [QRServ](https://play.google.com/store/apps/details?id=dev.uint.qrserv) - Desktop / Mobile Transfer / [GitHub](https://github.com/uintdev/qrserv)
 * [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Desktop / Mobile Transfer
@@ -308,6 +310,7 @@
 * [FileMirage](https://filemirage.com/) - 50GB / 30 Days After Last View
 * [Send.now](https://send.now/) - 100GB / 15 Days After Last Download
 * [Transfer.it](https://transfer.it/) / Unlimited / 90 Days / Owned by Mega.nz
+* [⁠Rootz](https://rootz.so/) - 25GB / 15 Days After Last Download / [Discord](https://discord.com/invite/rtz)
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Sign-Up Required
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
@@ -316,6 +319,7 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / 90 Hours / [File Expiry](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [⁠DoraDrop](http://doradrop.com/) - Unlimited / 5GB / Sign-Up Required
+* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Sign-Up Required
 * [⁠UploadHive](https://uploadhive.com/) - Unlimited / 30 Days After Last Download / Use Adblock
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
 * [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
@@ -344,7 +348,6 @@
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
 * [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Sign-Up Required
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
-* [⁠UpZur](https://upzur.com/) - 5GB / 1.95TB / 120 Days After Last Download / Sign-Up Required
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days

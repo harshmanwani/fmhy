@@ -14,6 +14,7 @@
 * ⭐ **[LibRedirect](https://libredirect.github.io/)** / [GitHub](https://github.com/libredirect/browser_extension), [Predirect](https://github.com/libreom/predirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
 * [Proxitok](https://github.com/pablouser1/ProxiTok), [Urlebird](https://urlebird.com/) or [OffTikTok](https://www.offtiktok.com/) - TikTok Frontends
+* [Binternet](https://github.com/Ahwxorg/Binternet) or [Pinvibe](https://www.pinvibe.com/) - Pinterest Frontends
 * [Social-Searcher](https://www.social-searcher.com/) or [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap) - Social Media Search Engines
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
@@ -56,7 +57,7 @@
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [InstagramEmbed](https://www.vxinstagram.com/) - Fix Instagram Embeds
 * [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self Host for Privacy / [Discord](https://discordpackage.com/discord)
-* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/), [discord-timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Discord Timestamp Generators
+* [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/) or [discord-timestamps](https://r.3v.fi/discord-timestamps/) - Discord Timestamp Generators
 * [haystackfs](https://github.com/dhrumilp15/haystackfs) - Discord File Search
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
@@ -147,7 +148,6 @@
 * [Bots on Discord](https://bots.ondiscord.xyz/) - Bot Index
 * [Discord Bots](https://discord.bots.gg/) - Bot Index
 * [Discord Services](https://discordservices.net/) - Bot Index
-* [DiscordBots](https://discordbots.co/) - Bot Index
 * [Discord Bot List](https://discordbotlist.com/) - Bot Index
 * [Botlist.me](https://botlist.me/) - Bot Index
 * [Void Bots](https://voidbots.net/) - Bot Index
@@ -158,7 +158,7 @@
 
 * ⭐ **[Reddit Stream](https://reddit-stream.com/)** - Live Thread Viewer
 * ⭐ **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)**, [Reddit++](https://greasyfork.org/en/scripts/490046), [Reddit Fix](https://greasyfork.org/en/scripts/404497-reddit-fix), [Reddit Extension](https://lawrenzo.com/p/reddit-extension), [RedditEnhancer](https://github.com/joelacus/RedditEnhancer) or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - Reddit Enhancement Extensions / Scripts
-* ⭐ **[Redlib](https://redlib.fmhy.net/)** / [Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md), [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends
+* ⭐ **[Redlib](https://redlib.fmhy.net/)** / [Instances](https://github.com/redlib-org/redlib-instances/blob/main/instances.md), [Libreddit](https://github.com/libreddit/libreddit-instances/blob/master/instances.md), [Photon](https://photon-reddit.com/) or [RDX](https://rdx.overdevs.com/) - Reddit Frontends
 * ⭐ **[Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect)** - Redirect New Reddit to Old
 * ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
 * [Redditp](https://redditp.com/) or [Reddit Viewer](https://reddit-viewer.com/) - Reddit TikTok Style Viewers
@@ -168,7 +168,6 @@
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [⁠SubHarbor](https://subharbor.com/) - Subreddit Backup Pages
-* [SubTransfer](https://subtransfer.ploomberapp.io/) - Export / Transfer Subreddits
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [SnooSnoop](https://snoosnoop.com/) - Reddit Account Analyzer
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
@@ -606,9 +605,8 @@
 
 # ► Blogging Tools
 
-* ⭐ **[Bear Blog](https://bearblog.dev/)**, **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
+* ⭐ **[Bear Blog](https://bearblog.dev/)** / [GitHub](https://github.com/HermanMartinus/bearblog), **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), [Mataroa](https://mataroa.blog/) or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [Telescope](https://telescope.ac/) - Publishing Platform
-* [Arbital](https://arbital.com/) - Hybrid Blogging / Wiki Platform
 * [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform
 * [Haven](https://havenweb.org/) or [WriteFreely](https://writefreely.org/) - Self-Hosted Blogging Platforms
 * [Notepin](https://notepin.co/) - Anonymous Blogging Platform
@@ -687,7 +685,6 @@
 * ⭐ **[Lemmy Apps](https://join-lemmy.org/apps)** - Lemmy Client List
 * ⭐ **[Divisions by zero](https://lemmy.dbzer0.com/)** - Piracy Focused Instance
 * [Quiblr](https://quiblr.com/) - Lemmy Instance Browser / [GitHub](https://github.com/Technicolor-Dreamcoat/Quiblr)
-* [Fediverser](https://portal.alien.top/) - Reddit to Lemmy Community Auto-Sync
 * [LemmyTools](https://github.com/howdy-tsc/LemmyTools) - Lemmy Improvement Extension
 
 ***

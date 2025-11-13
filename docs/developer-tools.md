@@ -33,7 +33,7 @@
 * [Talos Blog](https://blog.talosintelligence.com/) - Cybersecurity News
 * [IT Security Guru](https://www.itsecurityguru.org/) - Cybersecurity News
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
-* [hackertab.dev](https://hackertab.dev/) or [daily.dev](https://daily.dev/) - Dev Browser Startpages
+* [hackertab.dev](https://hackertab.dev/) - Dev Browser Startpages
 
 ***
 
@@ -107,7 +107,6 @@
 * [Web Toolbox](https://web-toolbox.dev/en)
 * [devina](https://devina.io/)
 * [wangchujiang](https://wangchujiang.com/tools/)
-* [SmallDev.tools](https://smalldev.tools/)
 * [Coders Tool](https://www.coderstool.com/)
 * [Utilities and Tools](https://utilities-online.info/)
 * [Clean CSS](https://www.cleancss.com/)
@@ -465,7 +464,7 @@
 * 🌐 **[⁠Awesome Web Editor](https://github.com/xjh22222228/awesome-web-editor)** - FOSS Web Editor Index
 * ↪️ **[Text Editors / Notes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25BA_text_editors)**
 * ⭐ **[VSCodium](https://vscodium.com/)** or **[Visual Studio Code](https://code.visualstudio.com/)**, [2](https://vscode.dev/), [3](https://cs50.dev/) - Code Editor / [Extensions](https://www.vsixhub.com/) / [Extensions Marketplace](https://rentry.co/vscodiumguide)
-* ⭐ **[JetBrains](https://jetbrains.com/)**
+* ⭐ **[JetBrains](https://jetbrains.com/)** / [Features](https://rentry.co/FMHYB64#jetbrains)
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor / [Matrix](https://matrix.to/#/#neovim:matrix.org)
 * ⭐ **[zed](https://zed.dev/)** - Code Editor / [GitHub](https://github.com/zed-industries/zed)
 * ⭐ **[Lite XL](https://lite-xl.com/)** or [Pragtical](https://pragtical.dev/) - Code Editor / [Plugin Manager](https://github.com/lite-xl/lite-xl-plugin-manager) / [Plugins](https://github.com/lite-xl/lite-xl-plugins) / [Themes](https://github.com/lite-xl/lite-xl-colors)
@@ -723,7 +722,6 @@
 * ↪️ **[TypeScript Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_typescript_tools)**
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - JavaScript Cheat Sheet / [GitHub](https://github.com/mbeaudru/modern-js-cheatsheet)
 * [Vanilla List](https://vanillalist.top/) - Vanilla JavaScript Repository
-* [RunKit](https://runkit.com/) - Browser JavaScript Sandbox
 * [Component Party](https://component-party.dev/) - Web Component JS Frameworks Overview / [GitHub](https://github.com/matschik/component-party.dev)
 * [jsdfe](https://avotoko.github.io/javascript-deobfuscator/), [de4js](https://lelinhtinh.github.io/de4js/), [Deobfuscator](https://willnode.github.io/deobfuscator/), [WebCrack](https://webcrack.netlify.app/), [Deobfuscate](https://deobfuscate.relative.im/) or [deobfuscate.io](https://deobfuscate.io/) - JavaScript Deobfuscators
 * [Minify JS](https://minify-js.com/) or [JS Compressor](https://jscompressor.treblereel.dev/) - JavaScript Minifiers
@@ -743,6 +741,7 @@
 * [Refine](https://refine.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
 * [Codux](https://www.codux.com/) - Visual IDE for React
+* [Puck](https://puckeditor.com/) - Create Simplified Visual Editors for Non-Devs / [GitHub](https://github.com/puckeditor/puck/)
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - Type-Safe Form for React
 * [Million](https://million.dev) - React Replacement
@@ -814,6 +813,7 @@
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/OP-Engineering/link-preview-js) - Create Link Previews
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
+* [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery 
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [Selenium](https://www.selenium.dev/), [CopyCat](https://www.runcopycat.com/), [PlayWright](https://playwright.dev/) or [Huginn](https://github.com/huginn/huginn) - Browser Automation
 * [Automa](https://www.automa.site/) or [Browserflow](https://browserflow.app/) - Browser Automation Extensions
@@ -1127,7 +1127,6 @@
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB Storage (Hard Limit 4GB) / Unlimited Bandwidth / No Custom Domain
 * [Kinsta](https://kinsta.com/static-site-hosting/) - 1GB Storage / 100GB Bandwidth / No Custom Domain
 * [Reocities](https://www.reocities.xyz/) - 1GB Storage / Unlimited Bandwidth / No Custom Domain
-* [yay.boo](https://yay.boo/) - 10MB Storage / Unlimited Bandwidth / No Custom Domain
 * [Staclo](https://staclo.host/) - 30MB Storage / 1GB Bandwidth / No Custom Domain
 
 ***
@@ -1212,7 +1211,7 @@
 * [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection
 * [Fail2Ban](https://github.com/fail2ban/fail2ban) - Protect Servers from Brute Force Attacks
 * [Tempesta FW](https://tempesta-tech.com/) - DDoS / Web Attack Protection
-* [IPv6 Leak Test](https://ip6.nl/), [IPv6 Test](https://ipv6-test.com/) or [Test-IPv6](https://test-ipv6.com/) - IPv6 Test
+* [IPv6 Leak Test](https://ip6.nl/) or [Test-IPv6](https://test-ipv6.com/) - IPv6 Test
 * [How To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
 
 ***

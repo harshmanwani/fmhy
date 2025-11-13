@@ -36,19 +36,16 @@
 * ⭐ **[Katbin](https://katb.in/)** - Plain Text / [GitHub](https://github.com/sphericalkat/katbin)
 * [snowbin](https://pastes.fmhy.net/), [2](https://paste.fmhy.net/) - Markdown Support / [GitHub](https://github.com/fmhy/snowbin)
 * [Text.is](https://text.is/) - Markdown Support / Rentry Clone
-* [Stellular](https://stellular.net/), [2](https://bundlrs.cc/), [3](https://www.sentrytwo.com/) - Markdown Support
 * [bpa.st](https://bpa.st/) - Multi-Syntax / Markdown Support
 * [⁠Ghostbin](https://ghostbin.co/) - Multi-Syntax / Markdown Support
 * [dpaste](https://dpaste.org/) - Multi-Syntax / Markdown Support / [GitHub](https://github.com/DarrenOfficial/dpaste)
 * [cryptgeon](https://cryptgeon.org/) - Single View / Plain Text / [GitHub](https://github.com/cupcakearmy/cryptgeon)
-* [Paste.ee](https://paste.ee/) - Multi-Syntax / Markdown Support
 * [pst.moe](https://pst.moe/) - Multi-Syntax / Markdown Support
 * [dpaste.com](https://dpaste.com/) - Multi-Syntax / Markdown Support
 * [NoPaste](https://nopaste.boris.sh/) - Multi-Syntax / [GitHub](https://github.com/bokub/nopaste)
 * [Pastebin.com](https://pastebin.com/) - Multi-Syntax
 * [pastebin.pl](https://pastebin.pl/) - Multi-Syntax
 * [CentOS Pastebin](https://paste.centos.org/) - Multi-Syntax
-* [Microbin](https://pub.microbin.eu/) - Multi-Syntax
 * [snippet.host](https://snippet.host/) - Multi-Syntax
 * [ProtectedText](https://www.protectedtext.com/) - Multi-Tab
 * [bin](https://basedbin.fly.dev/) - Minimal Pastebin
@@ -67,17 +64,17 @@
 
 ***
 
-* ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-* ⭐ **[DeepL](https://www.deepl.com/translator)** - AI-Based Translation
-* ⭐ **[Kagi Translate](https://translate.kagi.com/)**
+* ⭐ **[Google Translate](https://translate.google.com/)** / [Extension](https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) or [SimplyTranslate](https://st.privacydev.net/) / [.onion](http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion/) - Online
+* ⭐ **[DeepL](https://www.deepl.com/translator)** - Online AI-Based Translation
+* ⭐ **[Kagi Translate](https://translate.kagi.com/)** - Online
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** (firefox) or [Linguist Translator](https://github.com/translate-tools/linguist) - Browser Extensions
 * ⭐ **[r/Translator](https://www.reddit.com/r/translator/)** - Translation Request Community
 * [LibreTranslate](https://libretranslate.com/) - FOSS Translator / Self-Hosted / Offline / [GitHub](https://github.com/LibreTranslate/LibreTranslate)
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
-* [Bing Translator](https://www.bing.com/translator)
-* [Yandex Translator](https://translate.yandex.com/)
+* [Bing Translator](https://www.bing.com/translator) - Online
+* [Yandex Translator](https://translate.yandex.com/) - Online
+* [Reverso](https://context.reverso.net/translation/) - Online In-Context Translations
 * [Nice Translator](https://nicetranslator.com/) - Batch Multi-Language Translation
-* [Reverso](https://context.reverso.net/translation/) - Translations In Context
 * [Translator++](https://dreamsavior.net/) or [Renpy Translator](https://github.com/anonymousException/renpy-translator) - CAT For Games
 * [Poedit](https://poedit.net/) - Software Translation / [GitHub](https://github.com/vslavik/poedit)
 * [Morsecode World](https://morsecode.world/) - Morse Code Translation Tools
@@ -136,6 +133,7 @@
 * [Grammarly](https://www.grammarly.com/grammar-check) - Sign-Up Required / [Extension](https://www.grammarly.com/browser)
 * [Writing Tools](https://github.com/theJayTea/WritingTools) - Desktop App
 * [DeepL Write](https://www.deepl.com/write)
+* [⁠Kagi Proofread](https://translate.kagi.com/proofread) 
 * [QuillBot](https://quillbot.com/grammar-check) / [Features](https://rentry.co/FMHYB64#quill)
 * [Scribens](https://www.scribens.com/)
 * [EditGPT](https://www.editgpt.app/) - Sign-Up Required
@@ -184,7 +182,6 @@
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colmak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
 * [⁠Typersguild](https://typersguild.com/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
-* [Colemak Academy](https://www.colemak.academy/) - Alt / Custom Keyboard Tests
 * [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Touch Typing Tests
 * [10fastfingers](https://10fastfingers.com/) - Typing Competitions
 
@@ -368,7 +365,6 @@
 
 ## ▷ Writing Tools
 
-* 🌐 **[Author Stash](https://authorstash.com/)** - Writing Tools / Resources
 * ↪️ **[AI Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_writing_tools)**
 * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/), [WriteSpace](https://www.writespace.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
@@ -380,7 +376,7 @@
 * [RenPy](https://www.renpy.org/) - Visual Novel Editor / [GitHub](https://github.com/renpy/renpy)
 * [Fortelling](https://www.fortelling.app/) or [Novelist](https://beta.novelist.app) - Novel Plotting / Editing Workspaces
 * [Infinite Story](https://infinite-story.com/), [Strand](https://strand.jinay.dev/), [Agora](https://www.agorawriter.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Writing / Feedback
-* [Gateway Forge](https://gatewayforge.com/) - Interactive Worldbuilding / Story Writing Tool / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn)
+* [Gateway Forge](https://gatewayforge.com/) / [Modules](https://gatewayforge.com/resources) / [Discord](https://discord.gg/c3PEQxxKfn) or [Chronicler](https://chronicler.pro/) / [Discord](https://discord.gg/cXJwcbe2b7) / [GitHub](https://github.com/mak-kirkland/chronicler) - Worldbuilding / Story Writing Apps
 * [LanguageIsAVirus](https://www.languageisavirus.com/) or [MDWA](https://www.squibler.io/dangerous-writing-prompt-app) - Writing Prompts
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [TextUSM](https://textusm.com/) - User Story Map Generator / [GitHub](https://github.com/harehare/textusm)
@@ -459,8 +455,10 @@
 * [Bunny Fonts](https://fonts.bunny.net/) - Open Source
 * [Google Fonts](https://fonts.google.com/) - Commercial Use / [Privacy-Friendly API](https://fonts.coollabs.io/)
 * [FontShare](https://fontshare.com/) - Commercial Use
+* [OnlineWebFonts](https://www.onlinewebfonts.com/) - Commercial Use
 * [Fontlot](https://fontlot.com/) - Freeware
 * [Fontsly](https://fontsly.com/) - Freeware
+* [FOSSFonts](https://fossfonts.com/) - Freeware
 * [Fonts4Free](https://www.fonts4free.net/) - Freeware
 * [FontSpace](https://www.fontspace.com/) - Freeware
 * [Online Fonts](https://online-fonts.com/) - Freeware

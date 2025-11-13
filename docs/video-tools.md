@@ -139,10 +139,10 @@
 * 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [StreamerFreebies](https://streamerfreebies.com/) - Live Streaming Resources
 * ⭐ **[OBS Studio](https://obsproject.com/)** - Live Stream Manager / Windows, Mac, Linux / [GitHub](https://github.com/obsproject/obs-studio)
 * ⭐ **OBS Tools** - [Tweaks](https://discord.gg/CTT) / [Background Remover](https://github.com/locaal-ai/obs-backgroundremoval) / [Web App](https://github.com/Niek/obs-web) / [Phone Controller](https://github.com/Kounex/obs_blade) / [Plugin Updater](https://ko-fi.com/s/0b5bd4536d) / [Guide](https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/)
+* ⭐ **[Streamer.bot](https://streamer.bot/)** - Live Stream Manager / [X](https://x.com/streamerdotbot) / [Subreddit](https://www.reddit.com/r/streamerbot) / [Discord](https://discord.com/invite/hYqQGG3puC) / [GitHub](https://github.com/Streamerbot)
 * [StreamLabs](https://streamlabs.com/) - Live Stream Manager / Windows, Mac / [GitHub](https://github.com/streamlabs/desktop)
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
 * [Restream](https://restream.io/) - Multi-Platform Streams
-* [Streamer.bot](https://streamer.bot/) - Live Stream Manager / [X](https://x.com/streamerdotbot) / [Subreddit](https://www.reddit.com/r/streamerbot) / [Discord](https://discord.com/invite/hYqQGG3puC) / [GitHub](https://github.com/Streamer.bot)
 * [TwitchChat](https://twitchat.fr/) - Live Stream Manager / [Discord](https://discord.com/invite/fmqD2xUYvP) / [GitHub](https://github.com/Durss/Twitchat)
 * [VDO Ninja](https://vdo.ninja/) - Live Stream Colab Tool
 * [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) - Live Stream Recorders / Windows, Mac, Linux
@@ -277,6 +277,7 @@
 * [Huntarr](https://github.com/plexguide/Huntarr.io) - Automate Media Server Missing Content / Quality Upgrades / [Discord](https://discord.com/invite/PGJJjR5Cww)
 * [Seanime](https://seanime.app/) - Anime Server
 * [Plex](https://www.plex.tv/) - Media Server
+* [DMS](https://github.com/anacrolix/dms) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
 * [OSMC](https://osmc.tv/) - Media Server
@@ -335,7 +336,7 @@
 * ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
 * [EverythingKodi](https://rumble.com/c/EverythingKodi) - Kodi Addon Tutorials
 * [Kodi Builds Chart](https://kodiapps.com/builds-chart)
-* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) - Kodi Addons
+* [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) or [⁠TroyPoint](https://troypoint.com/) - Kodi Addons
 * [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
 * [Plex Kodi Connect](https://github.com/croneter/PlexKodiConnect) or [plex-for-kodi](https://github.com/pannal/plex-for-kodi) - Plex for Kodi
@@ -433,7 +434,7 @@
 ## ▷ Effects / Enhancements
 
 * [Video Enhance AI](https://lrepacks.net/repaki-programm-dlya-grafiki/) - Video Enhancement Tool / Search "Topaz" on LR
-* [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
+* [Gyroflow](https://gyroflow.xyz/) / [GitHub](https://github.com/gyroflow/gyroflow) or [ComfyUI-Video-Stabilizer](https://github.com/nomadoor/ComfyUI-Video-Stabilizer) - Video Stabilization 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.cr/patreon/user/19695417) or [SVP](https://www.svp-team.com/) / [Guide](https://www.svp-team.com/wiki/Manual:SVPcode) - Video Interpolation / Increase FPS
 * [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
 * [OpenColorIO](https://opencolorio.org/) - Video Color Manager

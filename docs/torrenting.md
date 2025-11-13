@@ -14,7 +14,7 @@
 * ⭐ **RuTracker Tools** - [Wiki](http://rutracker.wiki/) / [Rules](https://rutracker.org/forum/viewtopic.php?t=1045) / [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * ⭐ **[m0nkrus](https://rentry.co/FMHYB64#m0nkrus)** - Adobe / Autodesk Software
 * ⭐ **Adobe Tools** - [GenP](https://rentry.co/FMHYB64#genp) / [Block Adobe](https://rentry.co/FMHYB64#a-dove-is-dumb) / [Adobe Guide](https://rentry.co/FMHYB64#adobe-guide)
-* [1337x](https://1337x.to/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)
+* [1337x](https://1337x.to/), [2](https://x1337x.cc/) - Video / Audio / NSFW / [Mirrors](https://1337x-status.org/) / [.onion](http://l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion/)
 * 1337x Tools - [Telegram Bot](https://t.me/search_content_bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Display Magnets](https://greasyfork.org/en/scripts/373230) / [Timestamp Fix](https://greasyfork.org/en/scripts/421635)
 * [RARBG Dump](https://rarbgdump.com/) - Video / Audio / Games / Books / NSFW / Continuation Project
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
@@ -144,6 +144,7 @@
 * [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) or [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) - Open Tracker Signup Subs
 * [Private Tracker Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Private Tracker Lists
 * [OpenSignups](https://t.me/trackersignup) - Open Signups Private Trackers / Telegram
+* [⁠cross-seed](https://www.cross-seed.org/) - Cross-Seeding Tool / Seed Same Torrent Across Multiple Sites
 * [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
 * [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats
 

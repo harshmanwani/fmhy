@@ -22,12 +22,12 @@
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines / VK
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines / Sign-Up
 * [Library Land](https://library.land/) - Books / Online Reading
-* [AllFreeBooks](https://allfreebooks.org/) - Book / Download
 * [BookFrom.net](https://www.bookfrom.net/) - Books / Online Reading
 * [Novel12](https://novel12.com/) - Books / Online Reading
 * [⁠ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books / Online Reading
 * [NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
 * [BooksMania](https://t.me/booksmania) - Books / Telegram
+* [BookArticlesBot](https://t.me/BookArticlesBot) - Books / Telegram
 * [FreeBannedBooks](https://freebannedbooks.org/) - US Banned Books
 * [Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_calibre_libraries)
 * [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
@@ -86,7 +86,7 @@
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [iDoc](https://idoc.tips/) - Books
 * [freepdfbook](https://freepdfbook.com/) - Books
-* [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search
+* [AWS S3](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Find PDFs on AWS
 
 ***
 
@@ -189,8 +189,7 @@
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [Project Aon](https://www.projectaon.org/en/Main/Home) - Lone Wolf Gamebooks
-* [Trans Reads](https://transreads.org/) - Transgender-focused Literature
-* [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
+* [Trans Reads](https://transreads.org/) - Transgender-Focused Literature
 * [Anarchist FAQ](https://www.anarchistfaq.org/) - Anarchism / Translations
 * [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
 * [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
@@ -336,6 +335,7 @@
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Dhushara Research](https://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
 * [The Theosophical Society](https://www.theosociety.org/) or [Theosophy World](https://www.theosophy.world/portfolio/term/ebooks) - Theosophy
+* [Great Library of Eris](https://libraryoferis.org/) - Discordianism
 * [Shankaracharya](https://www.shankaracharya.org/) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
 * [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
@@ -442,7 +442,7 @@
 * [OldComicsWorld](https://oldcomicsworld.blogspot.com/) - Golden Age Comic Downloads
 * [DigitalComicMuseum](https://digitalcomicmuseum.com/) - Golden Age Comic Downloads
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
-* [GoComics](https://www.gocomics.com/) - Comics Strips / uBO Bypasses Trial Limit
+* [GoComics](https://www.gocomics.com/) - Comics Strips / [Bypass Limit](https://pastebin.com/pwUxTPAr), [2](https://bin.disroot.org/?9169f16676b9b1e5#9ZeRZR9Ms37wpCQdwom8yLnYrWZJVDd1sT98d4Yg65YL)
 * [The Oatmeal](https://theoatmeal.com/) - Webcomics
 * [Hiveworks Comics](https://www.thehiveworks.com/) - Webcomics
 * [Loading Artist](https://loadingartist.com/) - Webcomics
@@ -482,6 +482,7 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [MangaTaro](https://mangataro.org/)
 * [Rive Manga](https://rivestream.org/manga)
+* [⁠Comix](https://comix.to/)
 * [MangaHaven](https://mangahaven.net/)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
@@ -554,7 +555,7 @@
 * [The Literature Network](https://www.online-literature.com/)
 * [Memory of the World](https://www.memoryoftheworld.org/)
 * [Taleem360](https://www.taleem360.com/)
-* [LibreTexts](https://one.libretexts.org/home), [2](https://libretexts.org/platforms/libraries/), [3](https://libretexts.org/)
+* [LibreTexts](https://commons.libretexts.org), [2](https://libretexts.org/platforms/libraries/), [3](https://libretexts.org/)
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
 * [Monoskop](https://monoskop.org/log/)
 * [LibertyFund](https://oll.libertyfund.org/)
@@ -921,7 +922,7 @@
 * [Spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
-* [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.gg/YbuYYUwhpP)
+* [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 * [VNDB](https://vndb.org/) - Visual Novels
 * [r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
@@ -937,7 +938,7 @@
 * ⭐ **[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [Tailwind BR](https://crisanlucid.github.io/vite-react-tailwind-bionic-reading/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi-Format Converter
 * ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
-* [⁠Scribd DL](https://github.com/rkwyu/scribd-dl), [Scribd Download Script](https://greasyfork.org/en/scripts/535783), [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
+* [⁠Scribd DL](https://github.com/rkwyu/scribd-dl), [Scribd PDF](https://scribd.pdfdownloaders.com/) or [ScribdVPDF](https://scribdvpdf.blogspot.com/) / [2](https://docdownloader.com/) / [3](https://scribd.vpdfs.com/) / [4](https://scribd.downloader.tips/) / [5](https://scribd.vdownloaders.com/) - Scribd Downloaders
 * [eBook Converter Bot](https://t.me/ebook_converter_bot) - Telegram Ebook Converter / [GitHub](https://github.com/yshalsager/ebook-converter-bot)
 * [CrowBook](https://github.com/crowdagger/crowbook) - Markdown to EPUB Converter
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/PsychedelicPalimpsest/LibbyRip)
