@@ -120,7 +120,7 @@ export const search: DefaultTheme.Config['search'] = {
       },
       searchOptions: {
         combineWith: 'AND',
-        fuzzy: true,
+        fuzzy: false,
         // @ts-ignore
         boostDocument: (documentId, term, storedFields: Record) => {
           const titles = (storedFields?.titles as string[])

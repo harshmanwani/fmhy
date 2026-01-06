@@ -24,9 +24,9 @@ const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
-    currentTheme: 'christmas',
+    currentTheme: 'swarm',
     currentMode: 'light' as DisplayMode,
-    theme: themeRegistry.christmas
+    theme: null
   })
   private amoledEnabled = ref(false)
 
@@ -38,11 +38,10 @@ export class ThemeHandler {
     if (typeof window === 'undefined') return
 
     // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'christmas'
+    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
     const savedMode = localStorage.getItem(STORAGE_KEY_MODE) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
 
-    // Set theme
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
       this.state.value.theme = themeRegistry[savedTheme]
@@ -74,14 +73,34 @@ export class ThemeHandler {
     })
   }
 
-  private applyTheme() {
+  public applyTheme() {
     if (typeof document === 'undefined') return
 
     const { currentMode, theme } = this.state.value
+
+    // Is this the WORST fix of all time???
+    const root = document.documentElement
+    const bgColor = currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#1A1A1A' : '#f8fafc'
+    root.style.setProperty('--vp-c-bg', bgColor)
+    const bgAltColor = currentMode === 'dark' && this.amoledEnabled.value ? '#000000' : currentMode === 'dark' ? '#171717' : '#eef2f5'
+    root.style.setProperty('--vp-c-bg-alt', bgAltColor)
+    const bgElvColor = currentMode === 'dark' && this.amoledEnabled.value ? 'rgba(0, 0, 0, 0.9)' : currentMode === 'dark' ? '#1a1a1acc' : 'rgba(255, 255, 255, 0.8)'
+    root.style.setProperty('--vp-c-bg-elv', bgElvColor)
+
+    this.applyDOMClasses(currentMode)
+
+    if (!theme) return
+
     const modeColors = theme.modes[currentMode]
 
     this.applyDOMClasses(currentMode)
     this.applyCSSVariables(modeColors, theme)
+
+    if (theme.name === 'monochrome') {
+      root.classList.add('monochrome')
+    } else {
+      root.classList.remove('monochrome')
+    }
   }
 
   private applyDOMClasses(mode: DisplayMode) {
@@ -96,11 +115,6 @@ export class ThemeHandler {
     // Add amoled class if enabled in dark mode
     if (mode === 'dark' && this.amoledEnabled.value) {
       root.classList.add('amoled')
-    }
-
-    // Add dark class for backward compatibility with VitePress
-    if (mode === 'dark') {
-      root.classList.add('dark')
     }
   }
 
@@ -160,20 +174,6 @@ export class ThemeHandler {
       root.style.removeProperty('--vp-c-text-1')
       root.style.removeProperty('--vp-c-text-2')
       root.style.removeProperty('--vp-c-text-3')
-    }
-
-    // Debug: log applied text color variables so we can inspect in console
-    try {
-      // eslint-disable-next-line no-console
-      console.log('[ThemeHandler] applied text vars', {
-        theme: theme.name,
-        mode: this.state.value.currentMode,
-        vp_text_1: root.style.getPropertyValue('--vp-c-text-1'),
-        vp_text_2: root.style.getPropertyValue('--vp-c-text-2'),
-        vp_text_3: root.style.getPropertyValue('--vp-c-text-3')
-      })
-    } catch (e) {
-      // ignore
     }
 
     // Apply button colors
@@ -315,9 +315,11 @@ export class ThemeHandler {
   }
 
   private ensureColorPickerColors() {
+    const theme = this.state.value.theme
+    if (!theme) return
     // If theme doesn't specify brand colors, force ColorPicker to reapply its selection
     const currentMode = this.state.value.currentMode
-    const modeColors = this.state.value.theme.modes[currentMode]
+    const modeColors = theme.modes[currentMode]
 
     if (!modeColors.brand || !modeColors.brand[1]) {
       // Trigger a custom event that ColorPicker can listen to
