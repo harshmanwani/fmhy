@@ -19,12 +19,12 @@ import type { DefaultTheme } from 'vitepress'
 // @unocss-include
 
 export const meta = {
-    name: 'freemediaheckyeah',
+    name: 'Free',
     description: 'The largest collection of free stuff on the internet!',
-    hostname: 'https://fmhy.net',
-    keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
+    hostname: 'https://free.harsh.im',
+    keywords: ['free', 'media', 'heckyeah'],
     build: {
-        api: true,
+        api: false,
         nsfw: true
     }
 }
