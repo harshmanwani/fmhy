@@ -20,6 +20,7 @@ import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { transformsPlugin } from './transformer'
+import { replaceNoteLink } from './utils/markdown'
 
 // @unocss-include
 
@@ -93,6 +94,13 @@ export default defineConfig({
       .finally(() => consola.success('Success!'))
   },
   vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          api: 'modern-compiler'
+        }
+      }
+    },
     ssr: {
       noExternal: ['@fmhy/components']
     },
@@ -109,6 +117,12 @@ export default defineConfig({
           replacement: fileURLToPath(
             new URL('./theme/components/VPLocalSearchBox.vue', import.meta.url)
           )
+        },
+        {
+          find: /^.*VPNav\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/VPNav.vue', import.meta.url)
+          )
         }
       ]
     },
@@ -120,7 +134,9 @@ export default defineConfig({
         output: ['console', 'terminal']
       }),
       UnoCSS({
-        configFile: '../unocss.config.ts'
+        configFile: fileURLToPath(
+          new URL('../../unocss.config.ts', import.meta.url)
+        )
       }),
       AutoImport({
         dts: '../.cache/imports.d.ts',
@@ -213,6 +229,7 @@ export default defineConfig({
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
       meta.build.api && md.use(headersPlugin)
+      replaceNoteLink(md)
     }
   },
   themeConfig: {
