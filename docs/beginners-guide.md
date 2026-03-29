@@ -2,11 +2,11 @@
 
 > How important is using an adblocker?
 
-Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker.
+Sites generally contain ads, some of which can be harmful, often leading to unwanted pages or fake download buttons. Real download buttons are usually small, often text-based or subtly integrated into the site's design. Fake ones are frequently large, brightly colored, use generic terms like 'Download Now', and may appear multiple times on a page. It can be hard to tell them apart, so it's important to always have an adblocker. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
 
 For browsers we recommend **[uBO](https://github.com/gorhill/uBlock)**, and you can also use a **[Redirect Skipper](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** to skip annoying countdowns. Note that uBO alone should be enough for browser adblocking; using DNS alongside it can cause conflicts.
 
-For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[ReVanced Manager](https://revanced.app/)** or **[Morphe](https://morphe.software/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/revanced-morphe-obtainium/). Note that uBO works on mobile browsers like Firefox too.
+For mobile **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_adblocking)** / [iOS](https://adguard.com/en/adguard-ios/overview.html) or **[Rethink DNS](https://rethinkdns.com/app)**, and you can block YouTube, Reddit, and X.com ads with **[Morphe](https://morphe.software/)** or **[ReVanced Manager](https://revanced.app/)**, which you can optionally [set up easily](https://wispydocs.pages.dev/revanced-morphe-obtainium/). Note that uBO works on mobile browsers like Firefox too.
 
 !!!note Using several ad blockers, like uBO and AdGuard at the same time can [mess things up](https://x.com/gorhill/status/1033706103782170625). This only happens with regular ad blockers, so it's perfectly okay to use uBO alongside something like SponsorBlock.
 
@@ -40,7 +40,7 @@ For iOS, we recommend **[Brave](https://brave.com/)** or **Safari + [AdGuard](ht
 
 > How do I decode Base64?
 
-If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you can use a Base64 decoder to view it. Some may need to be decoded twice.
+If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8`, you can use a Base64 decoder to view it. Some may need to be decoded twice.
 
 * **[Base64 Decoders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) / [Auto Decode](https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder)**
 
@@ -48,29 +48,29 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Movies / Shows
 
-* **Streaming: [Cineby](https://www.cineby.gd/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.today/)**
+* **Streaming: [Cineby](https://www.cineby.gd/) / [NEPU](https://nepu.to/) / [XPrime](https://xprime.su/)**
 * **Downloading: [Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_download_sites)**
 * **Torrenting: [ExT.to](https://ext.to/browse/?cat=1) / [1337x](https://1337x.to/movie-library/1/)**
 * **Sports Streaming: [Streamed](https://streamed.pk/) / [SportyHunter](https://sportyhunter.com/)**
-* **Drama Streaming: [DramaCool](https://dramacoolt.com.in/) / [GoPlay](https://goplay.su/)**
-* **Track / Discover: [Simkl](https://simkl.com/) / [Trakt](https://trakt.tv/) / [Letterboxd](https://letterboxd.com/)**
+* **Drama Streaming: [GoPlay](https://goplay.su/) / [DramaCool](https://dramacool-l.fun/)**
+* **Track / Discover: [Simkl](https://simkl.com/) / [Letterboxd](https://letterboxd.com/)**
 
 ***
 
 ### Anime
 
-* **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/) / [HiAnime](https://hianime.to/)**
+* **Streaming: [AnimeKai](https://animekai.to/home) / [Miruro](https://www.miruro.com/)**
 * **Downloading: [Tokyo Insider](https://www.tokyoinsider.com/) / [Kayoanime](https://kayoanime.com/)**
 * **Torrenting: [Nyaa](https://nyaa.si/) / [Hayase](https://hayase.watch/) / [Extensions](https://rentry.co/FMHYB64#hayase)**
-* **Track / Discover: [MyAnimeList](https://myanimelist.net/) / [AniList](https://anilist.co/)**
+* **Track / Discover: [MAL](https://myanimelist.net/) / [AniList](https://anilist.co/)**
 
 ***
 
 ### Music
 
 * **Streaming: [SpotX](https://github.com/SpotX-Official/SpotX) / [Monochrome](https://monochrome.tf/), [2](https://monochrome.samidy.com/), [3](https://monochromemusic.pages.dev)**
-* **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Soulseek](https://slsknet.org/)**
-* **Android: [Metrolist](https://mostafaalagamy.github.io/) / [ReVanced Manager](https://revanced.app/) / [Morphe](https://morphe.software/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
+* **Downloading: [lucida](https://lucida.to/) / [DoubleDouble](https://doubledouble.top/) / [Nicotine+](https://nicotine-plus.org/) + [Soulseek](https://slsknet.org/)**
+* **Android: [Metrolist](https://metrolist.meowery.eu/) / [Morphe](https://morphe.software/) / [ReVanced Manager](https://revanced.app/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **iOS: [SpotC++](https://spotc.yodaluca.dev/) / [SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)**
 * **Track / Discover: [RateYourMusic](https://rateyourmusic.com/) / [Last.fm](https://www.last.fm/home)**
 
@@ -78,20 +78,19 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 ### Gaming
 
-* **Download / Torrent: [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
+* **Download / Torrent: [Virgil Game Search](https://virgil.samidy.com/Games/) / [AnkerGames](https://ankergames.net/) / [SteamRIP](https://steamrip.com/) / [FitGirl Repacks](https://fitgirl-repacks.site/)**
 * **Emulation / ROMs: [Emulation Wiki](https://emulation.gametechwiki.com/index.php/Main_Page) / [r/ROMs Mega](https://r-roms.github.io/) / [Myrient](https://rentry.co/FMHYB64#myrient)**
-* **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)**
 * **Track / Discover: [Backloggd](https://www.backloggd.com/) / [Glitchwave](https://glitchwave.com/)**
 
 ***
 
 ### Reading
 
-* **Downloading: [Anna's Archive](https://annas-archive.li/) / [Z-Library](https://z-lib.gd/)**
-* **Audiobooks:  [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md) / [Tokybook](https://tokybook.com/)**
+* **Downloading: [Anna's Archive](https://annas-archive.gl/) / [Z-Library](https://z-lib.gd/)**
+* **Audiobooks: [Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124) / [AudiobookBay](https://audiobookbay.lu/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/audiobookbay-warning.md) / [Tokybook](https://tokybook.com/)**
 * **Manga: [Weeb Central](https://weebcentral.com/) / [⁠Comix](https://comix.to/)**
 * **Comics: [BatCave](https://batcave.biz/) / [ReadComicsOnline](https://readcomiconline.li/) / [GetComics](https://getcomics.org/)**
-* **Ebook Readers: [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books) / [Foxit](https://www.foxit.com/pdf-reader/)** + [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
+* **Ebook Readers: [Readest](https://readest.com/) / [Koodo](https://www.koodoreader.com/) / [Google Play Books](https://play.google.com/books)** + [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/foxit-warning.md)
 * **Android Readers: [Librera](https://librera.mobi/) / [Moon+ Reader](https://www.moondownload.com/) + [Theme Guide](https://claraiscute.neocities.org/Guides/moontheme/), [2](https://claraiscute.pages.dev/Guides/moontheme) / [Legado](https://github.com/gedoor/legado/blob/master/English.md)**
 * **Track / Discover: [GoodReads](https://www.goodreads.com/)** (books) / [StoryGraph](https://www.thestorygraph.com/) (books) / **[MAL](https://myanimelist.net/)** (manga) / **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** (comics)
 
@@ -103,7 +102,7 @@ If you see a string of text that looks like this `aHR0cHM6Ly9mbWh5Lm5ldC8` you c
 
 Privacy is about controlling your personal information, not just keeping things secret. Non-sensitive data is used by companies to track your behavior, target ads, and influence your choices.
 
-For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearXNG](https://searx.fmhy.net/)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
+For email privacy, we recommend **[Proton](https://proton.me/mail)** and for search **[SearXNG](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_searx_instances)**. It's also good to check sites like **[HaveIBeenPwned](https://haveibeenpwned.com/Passwords)** to make sure your info hasn't been part of any recent data breaches.
 
 !!!note Remember never to use your real email or password on any site you're not sure is trustworthy. It's good to use a different password on every site you register for, that way if a breach happens, only the password for that one site is compromised. You can also use email [aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_email_aliasing).
 
@@ -116,6 +115,8 @@ For email privacy, we recommend **[Proton](https://proton.me/mail)** and for sea
 > How can I download / activate Windows for free?
 
 Download an ISO from Massgrave's **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** page, and follow the **[Clean Install Windows Guide](https://massgrave.dev/clean_install_windows)** to install it. After install, activate it with **[Microsoft Activation Scripts](https://rentry.co/FMHYB64#mas)**. If you'd like to use Windows 10 past its End-Of-Life date, follow **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)**.
+
+Note you can turn on file extensions for all files by opening File Explorer, clicking on the "View" menu, and checking the box next to "File name extensions."
 
 * **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
 * **Software Sites: [Virgil Software Search](https://virgil.samidy.com/Software/) / [CracksURL](https://cracksurl.com/) / [Download Guide](https://cracksurl.com/how-to-download/) / [LRepacks](https://lrepacks.net/)**
@@ -147,7 +148,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### iOS Sideloading
 
-* **[Sideloading Guide](https://rentry.co/sideloadingguide)** - Sideloading Guide
+* **[⁠PlumeImpactor](https://github.com/khcrysalis/Impactor)** - Non-Jailbreak Sideloading
 * **[TrollStore](https://github.com/opa334/TrollStore)** - Unlimited App Sideloading [iOS 14.0-17.0]
 * **[SideStore](https://sidestore.io/)** - Sideloading App [iOS 16.0 & Above]
 * **[Sideloadly](https://sideloadly.io/)** - Sideload Apps [iOS 7.0 & Above]
@@ -157,6 +158,7 @@ Downloading files through torrenting can cause issues with your ISP, so using a 
 
 ### Important Links
 
+* **Download Managers: [JDownloader](https://jdownloader.org/jdownloader2)** / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)
 * **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate Web Pages to Your Language
 * **[Glossary / Terminology ](https://rentry.org/the-piracy-glossary)** - Common piracy term definitions
 * **[Unsafe Sites / Software](https://fmhy.net/unsafe)** / [2](https://redd.it/10bh0h9) - Things we recommend avoiding

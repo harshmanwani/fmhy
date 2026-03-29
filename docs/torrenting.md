@@ -21,6 +21,7 @@
 * [TorrentDownloads](https://www.torrentdownloads.pro/) - Video / Audio / Books
 * [ExtraTorrent](https://extratorrent.st/) - Video / Audio / Books / NSFW
 * [rutor.info](https://rutor.is/), [2](https://rutor.info/) - Video / Audio / Books / ROMs / Magazines / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [⁠Torr9](https://torr9.net/) - Video / Audio / Books
 * [UZTracker](https://uztracker.net/), [2](https://uztracker.ru) - Video / Audio / Books / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [NNM-Club](https://nnmclub.to/) - Video / Audio
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW / Requires Sign-Up
@@ -37,7 +38,6 @@
 * [DaMagNet](https://damag.net/) - DHT-Based
 * [TorrentDownload](https://www.torrentdownload.info/)
 * [TorrentQuest](https://torrentquest.com/)
-* [Trackly.cc](https://trackly.cc/)
 * [Cleanbay](https://cleanbay.netlify.app/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [Torrents-CSV](https://torrents-csv.com/)
@@ -123,9 +123,8 @@
 ## ▷ Remote Torrenting
 
 * ↪️ **[Debrid / Leeches](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_debrid_.2F_leeches)**
-* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/wamy) / [GitHub](https://github.com/TorBox-App) 
+* ⭐ **[TorBox](https://torbox.app/)** - Freemium / 10GB / 10 Monthly Downloads / [Unofficial Mobile Client](https://github.com/93Pd9s8Jt/atba) / [Subreddit](https://www.reddit.com/r/TorBoxApp/) / [Discord](https://discord.com/invite/torbox) / [GitHub](https://github.com/TorBox-App) 
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
-* [⁠BitTorrented](https://bittorrented.com/) - Unlimited
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab / 15GB
 * [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
@@ -143,7 +142,6 @@
 # ► Private Trackers
 
 * 🌐 **[Private Trackers General](https://claraiscute.neocities.org/Guides/private-trackers)**, [2](https://claraiscute.pages.dev/Guides/private-trackers/), **[r/TrackersInfo](https://www.reddit.com/r/TrackersInfo/wiki/official_recruitments/)**, [The Sheet](https://inviteroute.github.io/sheet/) or [Graph](https://inviteroute.github.io/graph/) - Private Tracker Guides
-* 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[TrackerStatus](https://trackerstatus.info/)**, [⁠OpenSignup](https://opensignup.xyz/) / [GitHub](https://t.me/trackersignup) or [TrackerHub](https://hdvinnie.github.io/TrackerHub/) - Tracker Status Updates
 * [⁠Tracker Pathways](https://trackerpathways.org/) - Private Tracker Pathways, Requirements, Invite Tiers 
 * [r/trackers](https://reddit.com/r/trackers) - Tracker Discussion
@@ -158,6 +156,7 @@
 # ► Helpful Sites / Apps
 
 * 🌐 **[ngosang](https://ngosang.github.io/trackerslist/)** / [GitHub](https://github.com/ngosang/trackerslist), [TrackersList.com](https://trackerslist.com/) / [GitHub](https://github.com/XIU2/TrackersListCollection) or [newTrackon](https://newtrackon.com/list) - Tracker Lists
+* 🌐 **[Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated)** - Warez / Scene Site Index
 * ⭐ **[Milkie](https://milkie.cc)** / [Discord](https://discord.com/invite/E4khNy5dz3) or [Scnlog](https://scnlog.me) - Scene Release Download
 * ⭐ **[PreDB.net](https://predb.net/)**, **[Pre Database](https://predataba.se)**, [Xrel](https://www.xrel.to), [NG Pre](https://ngp.re/), [Archiv.pw](https://archiv.pw/), [srrDB](https://www.srrdb.com) or [M2V](https://m2v.ru) - Scene Release Info
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.net/) / [3](https://www.torrentkitty.lol/) - Torrent to Magnet Converters
