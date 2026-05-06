@@ -20,45 +20,7 @@ import { transform, transformGuide } from './transformer'
 
 // @unocss-include
 
-export const meta = {
-  name: 'Your FMHY Clone',
-  hostname: 'https://free.harsh.im',
-  description: 'Your description here',
-  keywords: ['free', 'media', 'heckyeah'],
-  build: {
-    api: false // disable backend API usage
-  }
-}
-
-export const excluded = [
-  'readme.md',
-  'single-page',
-  'feedback.md',
-  'index.md',
-  'sandbox.md',
-  'startpage.md'
-]
-
-if (process.env.FMHY_BUILD_NSFW === 'false') {
-  consola.info('FMHY_BUILD_NSFW is set to false, disabling NSFW content')
-  meta.build.nsfw = false
-}
-if (process.env.FMHY_BUILD_API === 'false') {
-  consola.info('FMHY_BUILD_API is set to false, disabling API component')
-  meta.build.api = false
-}
-
-const formatCommitRef = (commitRef: string) =>
-  `<a href="https://github.com/fmhy/edit/commit/${commitRef}">${commitRef.slice(0, 8)}</a>`
-
-export const commitRef =
-  process.env.CF_PAGES && process.env.CF_PAGES_COMMIT_SHA
-    ? formatCommitRef(process.env.CF_PAGES_COMMIT_SHA)
-    : process.env.COMMIT_REF
-      ? formatCommitRef(process.env.COMMIT_REF)
-      : 'dev'
-
-export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
+export * from './shared'
 
 export const search: DefaultTheme.Config['search'] = {
   options: {
