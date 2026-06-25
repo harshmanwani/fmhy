@@ -19,7 +19,8 @@ import type { Theme } from '../types'
 export const christmasTheme: Theme = {
   name: 'Christmas',
   displayName: 'Christmas',
-  preview: 'https://raw.githubusercontent.com/SamidyFR/edit/refs/heads/main/docs/.vitepress/theme/themes/configs/christmas_tree.png',
+  preview:
+    'https://raw.githubusercontent.com/fmhy/edit/refs/heads/main/docs/.vitepress/theme/themes/configs/christmas_tree.png',
   modes: {
     light: {
       brand: {
@@ -28,14 +29,14 @@ export const christmasTheme: Theme = {
         3: '#155C2F',
         soft: '#a200ffff'
       },
-      bg: '#ffffffff',
-      bgAlt: '#f9fafb',
-      bgElv: 'rgba(255, 255, 255, 0.7)',
+      bg: '#f8fafc',
+      bgAlt: '#eef2f5',
+      bgElv: '#eef2f5',
       bgMark: 'rgb(232, 232, 232)',
       text: {
-        1: '#1f2937',
-        2: '#4b5563',
-        3: '#353638ff'
+        1: '#353638ff',
+        2: '#334155',
+        3: '#6b7280'
       },
       button: {
         brand: {
@@ -68,27 +69,29 @@ export const christmasTheme: Theme = {
           border: '#447A61',
           text: '#2D6A58',
           textDeep: '#166534'
-          },
-          warning: {
-            bg: '#FCEFC3',
-            border: '#9A8034',
-            text: '#9C701B',
-            textDeep: '#92400e'
-          },
-          danger: {
-            bg: '#FBE1E2',
-            border: '#B3565E',
-            text: '#912239',
-            textDeep: '#991b1b'
-          }
+        },
+        warning: {
+          bg: '#FCEFC3',
+          border: '#9A8034',
+          text: '#9C701B',
+          textDeep: '#92400e'
+        },
+        danger: {
+          bg: '#FBE1E2',
+          border: '#B3565E',
+          text: '#912239',
+          textDeep: '#991b1b'
+        }
       },
       selection: {
         bg: '#bfdbfe'
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #BD2F2F 30%, #f9fafb)',
-        heroImageBackground: 'linear-gradient(-45deg, #BD2F2F 50%, #f9fafb 50%)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #BD2F2F 30%, #f9fafb)',
+        heroImageBackground:
+          'linear-gradient(-45deg, #BD2F2F 50%, #f9fafb 50%)',
         heroImageFilter: 'blur(44px)'
       }
     },
@@ -128,31 +131,32 @@ export const christmasTheme: Theme = {
           text: '#bae6fd',
           textDeep: '#bae6fd'
         },
-          tip: {
-            bg: '#0C2A20',
-            border: '#184633',
-            text: '#B0EBC9',
-            textDeep: '#166534'
-          },
-          warning: {
-            bg: '#403207',
-            border: '#7E6211',
-            text: '#F9DE88',
-            textDeep: '#92400e'
-          },
-          danger: {
-            bg: '#3F060A',
-            border: '#7C0F18',
-            text: '#F7C1BC',
-            textDeep: '#991b1b'
-          }
+        tip: {
+          bg: '#0C2A20',
+          border: '#184633',
+          text: '#B0EBC9',
+          textDeep: '#166534'
+        },
+        warning: {
+          bg: '#403207',
+          border: '#7E6211',
+          text: '#F9DE88',
+          textDeep: '#92400e'
+        },
+        danger: {
+          bg: '#3F060A',
+          border: '#7C0F18',
+          text: '#F7C1BC',
+          textDeep: '#991b1b'
+        }
       },
       selection: {
         bg: '#1e3a8a'
       },
       home: {
         heroNameColor: 'transparent',
-        heroNameBackground: '-webkit-linear-gradient(120deg, #f9fafb 30%, #BD2F2F)',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #f9fafb 30%, #BD2F2F)',
         heroImageBackground: 'linear-gradient(-45deg, #f9fafb 50%,#BD2F2F 50%)',
         heroImageFilter: 'blur(44px)'
       }
