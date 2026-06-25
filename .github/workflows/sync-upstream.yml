@@ -31,9 +31,10 @@ jobs:
       - name: Fetch and merge upstream
         run: |
           git fetch upstream main
-          # Merge without --allow-unrelated-histories (only needed once for unrelated roots;
-          # keeping it off avoids noisy merges). If this fails with conflicts, resolve locally
-          # and push once; future scheduled runs will succeed again.
+          # .gitattributes enforces LF, but some markdown files were committed with CRLF.
+          # On Linux runners that leaves a dirty working tree and blocks merge.
+          git add --renormalize .
+          git diff --cached --quiet || git commit -m "Normalize line endings"
           git merge FETCH_HEAD -m "Sync from upstream"
 
       - name: Push to origin
