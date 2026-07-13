@@ -253,7 +253,7 @@
 * ⭐ **[KiCad](https://www.kicad.org/)** / [Libraries](https://kicad.github.io/) or [Horizon EDA](https://horizon-eda.org/) - Schematics Editor / PCB Creator / SPICE Integration
 * [⁠IEEE Spectrum](https://spectrum.ieee.org/) - Engineering Magazine / News
 * [Formulia](https://play.google.com/store/apps/details?id=m4.enginary) - Engineering Formulas / Tools
-* [BOMwiki](https://bomwiki.com/) - Product Blueprint Components Database / [X](https://x.com/protosphinx)
+* [BOMwiki](https://bomwiki.com/) - Product Blueprint Components Database / [X](https://x.com/protosphinx) / [GitHub](https://github.com/BOMWiki)
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [SendCutSend Education](https://sendcutsend.com/education/) - CAD Engineering Study Guide / Videos / [X](https://x.com/sendcutsend)
 * [SOLIDWORKS Practice Problems](https://www.solidworks.com/solution/education/practice-problems) - CAD Engineering Practice Exercises / [X](https://x.com/solidworks)
@@ -395,14 +395,14 @@
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
 * [University of Minnesota Histology](https://www.histologyguide.org/index.html) - Histology Guides
 * [Tulane University Pharmacology](https://tmedweb.tulane.edu/pharmwiki/doku.php/start) - Pharmacology Info & Quizzes
-* [Antibiotics Summary](https://i.imgur.com/rADmmfy.jpeg), [2](https://files.catbox.moe/l7r3n5.jpeg) - Antibiotics Summary Image
+* [Antibiotics Summary](https://i.ibb.co/j9ksM3S9/l7r3n5.jpg), [2](https://files.catbox.moe/l7r3n5.jpeg), [3](https://i.imgur.com/rADmmfy.jpeg) - Antibiotics Summary Image
 * [Healio ECG Review](https://www.healio.com/cardiology/learn-the-heart/ecg-review) or [Litfl](https://litfl.com/ecg-library/) - ECG Information
 * [The ECG Course](https://www.youtube.com/playlist?list=PLVRaFpHAzzCgJdurDKLdG464Z2sMAy4oY) - ECG Video Course
 * [ECG Wave-Maven: Self-Assessment Program](https://ecg.bidmc.harvard.edu/maven/mavenmain.asp) - ECG Practice / Learning
 * [Hyper Heart](https://library.med.utah.edu/kw/pharm/hyperheart/#animation_container) - Massey University Heart Animation
 * [Emergency Medicine Cases](https://emergencymedicinecases.com/) - EM Case Index
 * [EMCrit](https://emcrit.org/) - Emergency Medicine Information
-* [DeployedMedicine](https://deployedmedicine.com/) (signup) or [TCCC](https://tccc.org.ua/en) - Combat Medicine Guide / Manuals / Videos
+* [DeployedMedicine](https://deployedmedicine.com/) (Sign-Up) or [TCCC](https://tccc.org.ua/en) - Combat Medicine Guide / Manuals / Videos
 * [EMRap](https://www.emrap.org/hd) - Emergency Medicine Videos
 * [Calgary Guide](https://calgaryguide.ucalgary.ca/) - Disease Pathophysiology / Manifestation Flow-Charts
 * [MalaCards](https://www.malacards.org/) - Human Disease Database
@@ -430,7 +430,7 @@
 * ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, [Apollo Image Atlas](https://www.lpi.usra.edu/resources/apollo/) or [ApolloArchive](https://apolloarchive.com/) / [Flickr](https://www.flickr.com/photos/projectapolloarchive/albums/) - Apollo (Missions) Images
 * [Apollo in Realtime](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Interactive Apollo Missions
 * [Artemis II Photo Timeline](https://artemistimeline.com/) - Artemis II Photo & Video Timeline
-* [⁠Lunaserv Global Explorer]( https://data.im-ldi.com/lunaserv.html) - Interactive LROC / Moon Exploration Tool
+* [⁠Lunaserv Global Explorer](https://data.im-ldi.com/lunaserv.html) - Interactive LROC / Moon Exploration Tool
 * [Marspedia](https://marspedia.org/) - Mars Wiki
 * [ESA](https://www.esa.int/) - European Space Agency Website / [X](https://x.com/ESA_Webb)
 * [JAXA](https://global.jaxa.jp/) - Japanese Space Agency Website / [Images / Videos](https://jda.jaxa.jp/?lang=e)
@@ -482,7 +482,7 @@
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](https://stellarium.org/) / [GitHub](https://github.com/Stellarium/stellarium) - Virtual Stellariums
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data / [Home Page](https://worldwidetelescope.org/home/) / [GitHub](https://github.com/WorldWideTelescope)
 * [ESA Hubble](https://esahubble.org/) / [X](https://x.com/hubble_space), [SpaceTelescopeLive](https://spacetelescopelive.org/) / [X](https://x.com/spacetelelive) or [HubbleSite](https://hubblesite.org/) / [X](https://x.com/NASAHubble) - Hubble Telescope Images
-* [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) / [X](https://x.com/nasawebb) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Sites
+* [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) / [X](https://x.com/nasawebb) or [ESAWebb](https://esawebb.org/) / [X](https://x.com/ESA_Webb) - Webb Space Telescope Sites
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Images / [GitHub](https://github.com/JohnEdChristensen/WebbCompare/tree/gh-pages)
 * [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
 * [r/SpacePorn](https://www.reddit.com/r/spaceporn/) or [r/Astrophotography](https://www.reddit.com/r/astrophotography/) - Astrophotography Subreddits
@@ -620,7 +620,7 @@
 * [Royal Constellations](https://royalconstellations.visualcinnamon.com/) - Royal Family Ancestral Visualization
 * [Royal Armouries Collections](https://royalarmouries.org/collection/) - Ancient Armaments Museum / [X](https://x.com/Royal_Armouries)
 * [⁠WildWinds](https://www.wildwinds.com/) - Ancient Numismatics / Coin Database
-* [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
+* [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time / [GitHub](https://github.com/Keeping-History/rt911)
 * [⁠TracesOfWar](https://www.tracesofwar.com/) - Military History & Battlefield Landmark Archive / [Subreddit](https://www.reddit.com/r/TracesOfWarHQ/) / [X](https://x.com/tracesofwar)
 * [⁠The Dreadnought Project](https://www.dreadnoughtproject.org/) - Naval History Wiki (1880-1920) / [X](https://x.com/NavyHistorian)
 * [⁠Warbirds Resource Group](https://www.warbirdsresourcegroup.org/) - Military Aviation History Encyclopedia
@@ -689,7 +689,7 @@
 ## ▷ World Data
 
 * 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/) or [UN Data](https://data.un.org/) - World Data & Statistics
+* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/), [Worlddata](https://www.worlddata.info/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - World Data Visualizations
 * [EverySecond](https://everysecond.io/) - Visualize Per Second World Data
@@ -699,6 +699,7 @@
 * [Rulers.org](https://rulers.org/) or [EveryPolitician](https://everypolitician.org/) / [GitHub](https://github.com/opensanctions/everypolitician.org) - World Heads Of State & Government Databases
 * [OpenSanctions](https://www.opensanctions.org/) - Government Sanctions Database / [GitHub](https://github.com/opensanctions/opensanctions)
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [⁠Global Firepower](https://www.globalfirepower.com/) - Global Military Data
 * [DataUNODC](https://dataunodc.un.org/) - Drug / Crime Statistics
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Statistics
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
@@ -714,7 +715,7 @@
 * 🌐 **[Soar](https://soaratlas.com/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/), [⁠WorldAtlas](https://www.worldatlas.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
 * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
-* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/) or [Seterra](https://www.seterra.com/#quizzes) - Geography Quiz Sites
+* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/), [⁠Memorize Earth](https://memorizeearth.com/), [⁠OpenGuessr](https://education.openguessr.com/), [WorldFindr](https://worldfindr.com/) or [Seterra](https://www.seterra.com/#quizzes) - Geography Quiz Sites
 * [Teuteuf](https://teuteuf.fr/) - Country Guessing Games
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
 * [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
@@ -752,6 +753,7 @@
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
 * [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks
 * [OEC](https://oec.world/en), [⁠UNCTAD](https://unctad.org/) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
+* [⁠CountryEconomy](https://countryeconomy.com/) - Country Economic Data
 * [OEC Games](https://oec.world/en/games) - Trade Data Games
 * [Statista](https://www.statista.com/) - Market Statistics
 * [BLS](https://www.bls.gov/) - U.S. Bureau of Labor Statistics
@@ -1143,6 +1145,7 @@
 * [Nihongo con Teppei](https://nihongoconteppei.com/) - Japanese Beginners Podcast
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [Minato](https://minato-jf.jp/) - Japanese Courses
+* [⁠Tsunahiro](https://tsunagarujp.mext.go.jp/?lang_id=EN) - Japanese Learning Videos
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
 * [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
 * [jidoujisho](https://github.com/arianneorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
@@ -1178,13 +1181,13 @@
 ## ▷ Chinese
 
 * 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
-* 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)**, [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
+* 🌐 **[Cantonese Sheik](https://www.cantonese.sheik.co.uk/)**, [⁠Baúl Chino](https://www.baulchino.com/), [⁠Refold Mandarin](https://zenith-raincoat-5cf.notion.site/Refold-Mandarin-Resources-d54bfade358b4d0a88b5600acb99582b) or [SinoSplice](https://www.sinosplice.com/)- Chinese Learning Resources
 * ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
-* [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning App
+* [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](https://hellochinese.cc/) - Chinese Learning Apps
 * [KongLongMandarin](https://www.konglongmandarin.com/), [DU Chinese](https://www.duchinese.net/) or [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
 * [Stroke Order](https://stroke-order.learningweb.moe.edu.tw/?la=1), [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons / Stroke Orders
-* [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp) or [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) - Learn Chinese Characters
+* [LexList](https://www.edbchinese.hk/lexlist_en/index.jsp), [⁠Hanly](https://www.hanlyapp.com/) or [Chinese Character Database](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/) - Learn Chinese Characters
 * [Dictionary Variants](https://dict.variants.moe.edu.tw/?la=1) - Dictionary of Chinese Character Variants
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
 * [Cantonese.ca](https://cantonese.ca/), [CantoScrolls](https://cantoscrolls.com/) or [Laoshi](https://laoshi.io/) - Chinese Vocabulary
@@ -1259,8 +1262,9 @@
 ## ▷ Sign Languages
 
 * ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
-* ⭐ **[ASL Dictionary](https://www.signasl.org/)**, [Anysign](https://www.anysign.app/en/dictionary), [WhatsThatSign](https://www.whatsthatsign.com/), [StrongASL](https://www.strongasl.com/), [LifePrint](https://lifeprint.com/), [ASLCore](https://aslcore.org/), [Sign Language 101](https://www.signlanguage101.com/asl/dictionary) or [HandSpeak](https://www.handspeak.com/) - American Sign Language Dictionaries
+* ⭐ **[ASL Dictionary](https://www.signasl.org/)**, [Anysign](https://www.anysign.app/en/dictionary), [WhatsThatSign](https://www.whatsthatsign.com/), [StrongASL](https://www.strongasl.com/), [LifePrint](https://lifeprint.com/), [ASLDict](https://www.masterstech-home.com/ASLDict.html), [ASLCore](https://aslcore.org/), [Sign Language 101](https://www.signlanguage101.com/asl/dictionary) or [HandSpeak](https://www.handspeak.com/) - American Sign Language Dictionaries
 * ⭐ **[BSL Dictionary](https://www.signbsl.com/)**, [SignDeaf](https://www.signdeaf.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
+* [SignWiki](http://signwiki.org/) - Sign Language Wiki Index / Multi Language
 * [Text to Sign](https://wecapable.com/tools/text-to-sign-language-converter/) - Convert Text to Fingerspelling in ASL or BSL
 * [Rochester ASL / LSF](https://projects.lib.rochester.edu/lsf-asl-app/) - ASL / LSF / Click Dictionary
 * [SignLex](https://signlex.framer.website/) - Interactive Sign Dictionary / Learning
@@ -1286,7 +1290,7 @@
 * [Signs](https://signs-ai.com/) - ASL Learning AI
 * [SignWriting](https://www.signwriting.org/) - Sutton SignWriting System Learning + Resources
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
-* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (signup), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
+* [DPAN](https://dpan.tv/), [Deaffest](https://deaffestonlinecinema.eventive.org/) (Sign-Up), [DMDb](https://deafmovie.org/free/) or [Lumo TV](https://lumotv.co.uk/) - Deaf Entertainment / News
 * [DMDb](https://deafmovie.org/) or [Sign on Screen](https://signonscreen.com/all-films/) - Deaf Movie Databases / Sign Language Films / Deaf Actors
 
 ***
@@ -1577,6 +1581,7 @@
 * [Addielamarr](https://publish.obsidian.md/addielamarr/), [Cyber Talent Kids](https://cybertalentskids.com/) or [Teach Yourself Info Sec](https://teachyourselfinfosec.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [⁠WeChall](https://www.wechall.net/) - Cybersecurity Practice Games + Rankings
+* [⁠BreachLab](https://breachlab.org/) - Learn Offensive Security
 * [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [x86re](https://x86re.com/) or [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Guides
@@ -1656,11 +1661,10 @@
 * 🌐 **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT Resources
 * [SAT Slayer](https://www.satslayer.org/), [2](https://satslayer.vercel.app/) - SAT Practice Exams / Questions
 * [⁠Mcelroy Tutoring](https://www.mcelroytutoring.com/lower.php?url=44-official-sat-pdfs-and-82-official-act-pdf-practice-tests-free) - SAT Practice Exams / Questions
-* [OnePrep](https://oneprep.xyz/) - SAT Practice Exams / Questions
 * [⁠Sat DB](https://www.satdbfor.me/) - SAT Practice Exams / Questions / Requires Sign-Up 
 * [DSATuz](https://t.me/DSATuz) - SAT Practice Exams / Questions / [Telegram](https://t.me/DSATuzchat)
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams / Questions
-* [SAT Question Bank](https://www.aniko.ai/free-resources/sat/question-bank) - SAT Practice Exams / Questions
+* [⁠Bluebooky](https://bluebooky.com/) - SAT Practice Exams / Questions / Signup Required 
 * [SATArchive](https://www.satarchive.com/) - Previous SAT Test Archive
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
 * [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
@@ -1670,7 +1674,7 @@
 ## ▷ JEE / NEET
 
 * 🌐 **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - Guides / Study Material
-* ⭐ **[PhysicsWallah](https://www.pw.live/)** - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
+* ⭐ **[PhysicsWallah](https://www.pw.live/)**, [Pirate Wallah](https://rentry.co/FMHYB64#pwallah) or [StudyStark](https://rentry.co/FMHYB64#studystark) - JEE Lessons / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
 * ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - Guides / Study Material
 * ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ Solutions / [Practice Environment](https://examcbt.thevolecitor.qzz.io/)
 * [JEE Hub](https://jeehub.vercel.app/) - JEE / NEET PYQs
@@ -1780,9 +1784,9 @@
 
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/examples/mathematics)** - Calculators
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - Calculators
-* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
+* ⭐ **[OpenCalc](https://f-droid.org/packages/com.darkempire78.opencalculator)**, [yetCalc](https://github.com/Yet-Zio/yetCalc) or [microMathematics](https://github.com/mkulesh/microMathematics) - Android Calculators
 * ⭐ **[GeoGebra](https://www.geogebra.org/)** or [Desmos](https://www.desmos.com/) - Graphing Calculators
-* [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) / [2](https://ti84-online.com/) / [3](https://ti84calcultor.com/) / [4](https://ti84calculator.io/) / [5](https://ti84procalc.com/) / [6](https://tihub.org/) / [7](https://ti-84calc.com//) - TI-84 Calculators
+* [CEmu](https://github.com/CE-Programming/CEmu) or [TI 84 Calculator](https://ti84calc.com/) - TI-84 Calculators
 * [numbr.dev](https://numbr.dev/) - Calculators
 * [Aqua Calc](https://www.aqua-calc.com/) - Calculators
 * [PlanetCalc](https://planetcalc.com/) - Calculators
@@ -1803,7 +1807,7 @@
 * ⭐ **[OneLook](https://onelook.com/)** - Multi-Source Dictionary / Thesaurus Search
 * ⭐ **[Wiktionary](https://www.wiktionary.org/)** - Multi-Language Dictionary / Thesaurus / Etymology
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus / Etymology
-* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / Windows, Mac, Linux
+* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - Dictionary / Windows, macOS, Linux
 * ⭐ **[NGrams](https://books.google.com/ngrams/)** or [Netspeak](https://netspeak.org/) - Word Usage Trackers
 * ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries

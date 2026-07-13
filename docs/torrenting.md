@@ -30,7 +30,6 @@
 ## ▷ Aggregators
 
 * ⭐ **[ExT](https://ext.to/)**, [2](https://search.extto.com/) / [Proxy](https://extranet.torrentbay.st/)
-* ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)
 * ⭐ **[Knaben](https://knaben.org/)**
 * [TorrentProject](https://torrentproject.cc/), [2](https://torrentproject2.net/) - DHT-Based
 * [DaMagNet](https://damag.net/) - DHT-Based
@@ -77,18 +76,18 @@
 
 ***
 
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, Mac, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
-* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, Mac, Linux
-* ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, Mac, Linux
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** / [2](https://qbittorrent.github.io/qBittorrent-website/) or [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - Torrent Client / Windows, macOS, Linux / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_qbittorrent_tools) / [GitHub](https://github.com/qbittorrent/qBittorrent)
+* ⭐ **[Deluge](https://www.deluge-torrent.org/)** - Torrent Client / [Plugins](https://deluge-torrent.org/plugins/) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer) / Windows, macOS, Linux
+* ⭐ **[Transmission](https://transmissionbt.com/)** - Torrent Client / Windows, macOS, Linux
 * ⭐ **[rTorrent](https://rakshasa.github.io/rtorrent/)** - Torrent Client / [Extended](https://rtorrent-ps.readthedocs.io/) / [Tools](https://pyrocore.readthedocs.org/), [2](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / Linux / [GitHub](https://github.com/rakshasa/rtorrent) 
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [Flood](https://flood.js.org/) - RTorrent Web Frontends
 * [torrent-control](https://github.com/Mika-/torrent-control) or [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client
 * [Tixati](https://tixati.com/) - Torrent Client / Windows, Linux, Android
-* [BiglyBT](https://www.biglybt.com/) - Torrent Client / Windows, Mac, Linux, Android
+* [BiglyBT](https://www.biglybt.com/) - Torrent Client / Windows, macOS, Linux, Android
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - Torrent Client / Windows
-* [WizTorrent](https://wiztorrent.com/) - Torrent Client / Streaming / WebShare / Windows, Mac, Linux
-* [rqbit](https://github.com/ikatson/rqbit/) - Lightweight Torrent Client / Streaming / UPnP Integration / Windows, Mac, Linux
-* [PikaTorrent](https://www.pikatorrent.com/) - Torrent Client / Windows, Mac, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)
+* [WizTorrent](https://wiztorrent.com/) - Torrent Client / Streaming / WebShare / Windows, macOS, Linux
+* [rqbit](https://github.com/ikatson/rqbit/) - Lightweight Torrent Client / Streaming / UPnP Integration / Windows, macOS, Linux
+* [PikaTorrent](https://www.pikatorrent.com/) - Torrent Client / Windows, macOS, Linux, Android, iOS / [GitHub](https://github.com/G-Ray/pikatorrent)
 * [Distribyted](https://distribyted.com/) - Torrent Client / Windows, Linux / [GitHub](https://github.com/distribyted/distribyted)
 * [Fragments](https://apps.gnome.org/Fragments/) - Torrent Client / Linux
 * [BitFlu](https://bitflu.workaround.ch/) - Torrent Client / Linux
@@ -110,7 +109,7 @@
 * [⁠qui](https://getqui.com/) / [GitHub](https://github.com/autobrr/qui), [VueTorrent](https://github.com/VueTorrent/VueTorrent) / [Demo](https://vuetorrent.github.io/demo/#/) or [iQbit](https://github.com/ntoporcov/iQbit) - Alt WebUIs
 * [qBit Manage](https://github.com/StuffAnThings/qbit_manage) - Manager / Automation Tool
 * [qBitController](https://github.com/Bartuzen/qBitController) - Mobile Controllers
-* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [Arch qBit VPN](https://github.com/binhex/arch-qbittorrentvpn) / Linux - Docker Builds
+* [Docker qBit](https://github.com/linuxserver/docker-qbittorrent) or [Arch qBit VPN](https://github.com/binhex/arch-qbittorrentvpn) (linux) - Docker Builds
 * [qBit Color Themes](https://github.com/MahdiMirzadeh/qbittorrent), [Dracula](https://draculatheme.com/qbittorrent), [Catppuccin](https://github.com/catppuccin/qbittorrent) or [Nord](https://github.com/Zabooby/qbittorrent-config) - Client Themes
 * [Quantum](https://github.com/UHAXM1/Quantum) - Auto Port Updater for Proton / Windows
 
@@ -123,6 +122,7 @@
 * ⭐ **[Seedr](https://www.seedr.cc/)** - 2GB / [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/AnjanaMadu/SeedrAPI)
 * [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb) - Google Colab / 15GB
 * [webtor](https://webtor.io/) - Unlimited / Download Speed Limited / No Sign-Up
+* [⁠Magnet.diy](https://magnet.diy/) - 2.5GB
 * [Multi-Up](https://multiup.io/en/upload/from-torrent) - 10 GB
 
 ***
