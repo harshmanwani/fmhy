@@ -30,12 +30,28 @@ jobs:
 
       - name: Fetch and merge upstream
         run: |
+          set -euo pipefail
           git fetch upstream main
+
           # .gitattributes enforces LF, but some markdown files were committed with CRLF.
           # On Linux runners that leaves a dirty working tree and blocks merge.
           git add --renormalize .
           git diff --cached --quiet || git commit -m "Normalize line endings"
+
+          before_merge="$(git rev-parse HEAD)"
           git merge FETCH_HEAD -m "Sync from upstream"
+
+          # GITHUB_TOKEN cannot push creates/updates under .github/workflows/*
+          # (needs classic PAT `workflow` scope). Keep the fork's workflow tree so
+          # daily sync still succeeds when upstream touches CI files.
+          if ! git diff --quiet "$before_merge" HEAD -- .github/workflows; then
+            echo "Upstream changed workflow files; restoring fork workflows before push."
+            git rm -rq --ignore-unmatch -- .github/workflows
+            if git ls-tree -r --name-only "$before_merge" -- .github/workflows | grep -q .; then
+              git checkout "$before_merge" -- .github/workflows
+            fi
+            git commit --amend --no-edit
+          fi
 
       - name: Push to origin
         run: git push origin HEAD:main
