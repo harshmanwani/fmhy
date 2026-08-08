@@ -1,6 +1,8 @@
-import { execFileSync } from 'node:child_process'
+import { execFileSync, spawnSync } from 'node:child_process'
 import crypto from 'node:crypto'
 import fs from 'node:fs'
+import os from 'node:os'
+import path from 'node:path'
 
 const DAYS = 30
 const OUTPUT_FILE = 'docs/recently-removed.md'
@@ -123,21 +125,39 @@ function generateRemovedSites() {
     }
   }
 
-  // Get git log with diffs
-  // We use a custom separator to make parsing easier
-  const logOutput = execFileSync(
-    'git',
-    [
-      ...gitDirArgs,
-      'log',
-      `--since=${DAYS} days ago`,
-      '--pretty=format:---COMMIT---%H---MSG---%s',
-      '-p',
-      '--unified=0',
-      'docs/'
-    ],
-    { maxBuffer: 10 * 1024 * 1024 }
-  ).toString()
+  // Get git log with diffs.
+  // Stream to a temp file instead of execFileSync — a 30-day docs patch log
+  // exceeds the default/maxBuffer and fails CI with ENOBUFS (e.g. on Vercel).
+  const logArgs = [
+    ...gitDirArgs,
+    'log',
+    `--since=${DAYS} days ago`,
+    '--pretty=format:---COMMIT---%H---MSG---%s',
+    '-p',
+    '--unified=0',
+    'docs/'
+  ]
+  const tmpLog = path.join(
+    os.tmpdir(),
+    `fmhy-removed-git-log-${process.pid}.txt`
+  )
+  const outFd = fs.openSync(tmpLog, 'w')
+  let logOutput
+  try {
+    const result = spawnSync('git', logArgs, {
+      stdio: ['ignore', outFd, 'pipe'],
+      encoding: 'utf-8'
+    })
+    if (result.status !== 0) {
+      throw new Error(
+        result.stderr?.trim() || `git log exited with status ${result.status}`
+      )
+    }
+    logOutput = fs.readFileSync(tmpLog, 'utf-8')
+  } finally {
+    fs.closeSync(outFd)
+    fs.rmSync(tmpLog, { force: true })
+  }
 
   const commits = logOutput.split('---COMMIT---').filter(Boolean)
   const removedSites = []
